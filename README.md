@@ -18,10 +18,13 @@ Durant aquesta pràctica hem realitzat diferents experiments
 Quines proves hem realitzat que tinguin a veure amb el pre-processat? Com han afectat als resultats?
 
 ## Model
-| Model | Hiperparametres | Mètrica | Temps |
-| -- | -- | -- | -- |
-| [Random Forest](link) | 100 Trees, XX | 57% | 100ms |
-| Random Forest | 1000 Trees, XX | 58% | 1000ms |
+| Model | Hiperparametres | Accuracy | F1-Score | Weighted avg | Temps |
+| -- | -- | -- | -- | -- | -- |
+| [Decision Tree](link) | 1000 Trees, XX | 57% | 0.59 | 0.57 | 13.2 ms |
+| [Logistic Regression](link) | 1000 Trees, XX | 43% | 0.60 | 0.26 | 5.98 ms |
+| [Random Forest](link) | 100 Trees, XX | 69% | 0.72 |  0.69 | 866 ms |
+| [K-Nearest Neighbors](link) | 1000 Trees, XX | 35% | 0.42 | 0.35 | 37.2 s |
+| [Naive-Bayes](link) | 1000 Trees, XX | 52% | 0.64 |  0.43 | 32.6 ms |
 | SVM | kernel: lineal C:10 | 58% | 200ms |
 | -- | -- | -- | -- |
 | [model de XXX](link al kaggle) | XXX | 58% | ?ms |
