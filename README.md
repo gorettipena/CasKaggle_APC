@@ -20,7 +20,7 @@ Quines proves hem realitzat que tinguin a veure amb el pre-processat? Com han af
 ## Model
 | Model | Hiperparametres | Accuracy | F1-Score | Weighted avg | Temps |
 | -- | -- | -- | -- | -- | -- |
-| [Decision Tree](https://github.com/gorettipena/CasKaggle_APC/blob/53b661ffa83634151aeb08e32ed514a874919f35/CasKaggle_Trip%20Pricing%20with%20Taxi%20Mobility%20Analytics.ipynb) | 1000 Trees, XX | 57% | 0.59 | 0.57 | 13.2 ms |
+| [Decision Tree](https://github.com/gorettipena/CasKaggle_APC/blob/fe79da990ffa64f5a9ae8da5f15bb615ec75b600/Decision%20Tree.ipynb) | 1000 Trees, XX | 57% | 0.59 | 0.57 | 13.2 ms |
 | [Logistic Regression](link) | 1000 Trees, XX | 43% | 0.60 | 0.26 | 5.98 ms |
 | [Random Forest](link) | 100 Trees, XX | 69% | 0.72 |  0.69 | 866 ms |
 | [K-Nearest Neighbors](link) | 1000 Trees, XX | 35% | 0.42 | 0.35 | 37.2 s |
