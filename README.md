@@ -18,14 +18,14 @@ Durant aquesta pràctica hem realitzat diferents experiments
 Quines proves hem realitzat que tinguin a veure amb el pre-processat? Com han afectat als resultats?
 
 ## Model
-| Model | Hiperparametres | Accuracy | F1-Score | Weighted avg | MSE | Temps |
-| -- | -- | -- | -- | -- | -- | -- |
-| [Decision Tree](https://github.com/gorettipena/CasKaggle_APC/blob/f70ea986973eaf9fcdc402f5549fdd87c0b86f0f/models/Decision%20Tree.ipynb) | 1000 Trees, XX | 57% | 0.59 | 0.57 | 13.2 ms |
-| [Logistic Regression](https://github.com/gorettipena/CasKaggle_APC/blob/8de608ab68291531e7e24f42955322e8361fa7bd/models/Logistic%20Regression.ipynb) | 1000 Trees, XX | 43% | 0.60 | 0.26 | 5.98 ms |
-| [Random Forest](https://github.com/gorettipena/CasKaggle_APC/blob/5ca79e2cc4ed0dfe4da8cf82326be6d23b0dca21/models/Random%20Forest%20Classifier.ipynb) | 100 Trees, XX | 69% | 0.72 |  0.69 | 866 ms |
-| [K-Nearest Neighbors](https://github.com/gorettipena/CasKaggle_APC/blob/e7fff479425de040672b99ffe337260564ad3e33/models/KNN.ipynb) | 1000 Trees, XX | 35% | 0.42 | 0.35 | 37.2 s |
-| [Naive-Bayes](https://github.com/gorettipena/CasKaggle_APC/blob/0b4d49cc11baeddd8a712b0ebaebbc6c670bb33a/models/Naive%20Bayes.ipynb) | 1000 Trees, XX | 52% | 0.64 |  0.43 | 32.6 ms |
-| [XGB](https://github.com/gorettipena/CasKaggle_APC/blob/0b4d49cc11baeddd8a712b0ebaebbc6c670bb33a/models/Naive%20Bayes.ipynb) | 1000 Trees, XX | 52% | 0.64 |  0.43 | 32.6 ms |
+| Model | Accuracy | F1-Score | Weighted avg | MSE | Temps |
+| -- | -- | -- | -- | -- | -- |
+| [Decision Tree](https://github.com/gorettipena/CasKaggle_APC/blob/f70ea986973eaf9fcdc402f5549fdd87c0b86f0f/models/Decision%20Tree.ipynb) | 57% | 0.59 | 0.57 | 4.83 | 13.2 ms |
+| [Logistic Regression](https://github.com/gorettipena/CasKaggle_APC/blob/8de608ab68291531e7e24f42955322e8361fa7bd/models/Logistic%20Regression.ipynb) | 43% | 0.60 | 0.26 | 3.67 | 5.98 ms |
+| [Random Forest](https://github.com/gorettipena/CasKaggle_APC/blob/5ca79e2cc4ed0dfe4da8cf82326be6d23b0dca21/models/Random%20Forest%20Classifier.ipynb) | 69% | 0.72 |  0.69 |  4.87 | 866 ms |
+| [K-Nearest Neighbors](https://github.com/gorettipena/CasKaggle_APC/blob/e7fff479425de040672b99ffe337260564ad3e33/models/KNN.ipynb) | 35% | 0.42 | 0.35 | 4.23 | 37.2 s |
+| [Naive-Bayes](https://github.com/gorettipena/CasKaggle_APC/blob/0b4d49cc11baeddd8a712b0ebaebbc6c670bb33a/models/Naive%20Bayes.ipynb) | 52% | 0.64 | 0.43 | 4.27 | 32.6 ms |
+| [XGB](https://github.com/gorettipena/CasKaggle_APC/blob/0b4d49cc11baeddd8a712b0ebaebbc6c670bb33a/models/XGB.ipynb) | 70% | 0.79 |  0.70 |  4.86 | 43.3 ms |
 
 
 ## Demo
