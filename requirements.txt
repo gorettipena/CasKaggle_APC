@@ -5,3 +5,4 @@ sudo pip install matplotlib
 sudo pip install scipy
 sudo pip install seaborn
 sudo pip install plotly
+sudo pip install xgboost
