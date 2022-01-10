@@ -20,7 +20,7 @@ Quines proves hem realitzat que tinguin a veure amb el pre-processat? Com han af
 ## Model
 | Model | Hiperparametres | Accuracy | F1-Score | Weighted avg | Temps |
 | -- | -- | -- | -- | -- | -- |
-| [Decision Tree](https://github.com/gorettipena/CasKaggle_APC/blob/fe79da990ffa64f5a9ae8da5f15bb615ec75b600/Decision%20Tree.ipynb) | 1000 Trees, XX | 57% | 0.59 | 0.57 | 13.2 ms |
+| [Decision Tree](https://github.com/gorettipena/CasKaggle_APC/blob/f70ea986973eaf9fcdc402f5549fdd87c0b86f0f/models/Decision%20Tree.ipynb) | 1000 Trees, XX | 57% | 0.59 | 0.57 | 13.2 ms |
 | [Logistic Regression](https://github.com/gorettipena/CasKaggle_APC/blob/31479c50999e94d14b4db97f90aa0a06042df440/Logistic%20Regression.ipynb) | 1000 Trees, XX | 43% | 0.60 | 0.26 | 5.98 ms |
 | [Random Forest](https://github.com/gorettipena/CasKaggle_APC/blob/31479c50999e94d14b4db97f90aa0a06042df440/Random%20Forest%20Classifier.ipynb) | 100 Trees, XX | 69% | 0.72 |  0.69 | 866 ms |
 | [K-Nearest Neighbors](https://github.com/gorettipena/CasKaggle_APC/blob/31479c50999e94d14b4db97f90aa0a06042df440/KNN.ipynb) | 1000 Trees, XX | 35% | 0.42 | 0.35 | 37.2 s |
